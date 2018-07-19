@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Lucida Std';
+    src: url('LucidaStd-Bold.eot');
+    src: url('LucidaStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('LucidaStd-Bold.woff2') format('woff2'),
+        url('LucidaStd-Bold.woff') format('woff'),
+        url('LucidaStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
